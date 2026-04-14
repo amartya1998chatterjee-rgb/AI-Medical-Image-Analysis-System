@@ -1,1 +1,0 @@
-# AI-Medical-Image-Analysis-System
